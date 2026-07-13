@@ -1,4 +1,4 @@
-# Hola, soy Yésica 👋
+# Hola, soy Ye
 
 Soy desarrolladora Frontend con más de 3 años de experiencia construyendo interfaces modernas y centradas en el usuario. Empecé por el frontend y fui expandiendo hacia el backend y la infraestructura, lo que me permite entender el producto de punta a punta.
 

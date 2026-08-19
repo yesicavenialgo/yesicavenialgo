@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7EBF2,50:54ACBF,100:011C40&height=190&section=header&text=Y%C3%A9sica%20Venialgo&fontSize=50&fontColor=011C40&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h3>Frontend-first Full-Stack Developer</h3>
+<h3>Software Engineer · Frontend-focused Full-Stack</h3>
 
 <p>Building thoughtful interfaces, reliable backends, and products that feel simple to use.</p>
 

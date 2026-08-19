@@ -1,37 +1,87 @@
-# Hola, soy Ye
+<div align="center">
 
-Soy desarrolladora Frontend con más de 3 años de experiencia construyendo interfaces modernas y centradas en el usuario. Empecé por el frontend y fui expandiendo hacia el backend y la infraestructura, lo que me permite entender el producto de punta a punta.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7EBF2,50:54ACBF,100:011C40&height=190&section=header&text=Y%C3%A9sica%20Venialgo&fontSize=50&fontColor=011C40&animation=fadeIn&fontAlignY=38" width="100%" />
 
-## Stack
+<h3>Frontend-first Full-Stack Developer</h3>
 
-**Frontend**
+<p>Building thoughtful interfaces, reliable backends, and products that feel simple to use.</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p>
+<a href="https://yesicavenialgo.com">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/yesicavenialgo/">LinkedIn</a>
+</p>
 
-**Backend**
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## About me
 
-**Infraestructura**
+I’m a frontend-first full-stack developer from Argentina with 3+ years of experience building modern, user-centered interfaces.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+I started with frontend development and gradually expanded into backend and infrastructure, which allows me to understand products from interface to deployment.
 
-## Proyectos
+## Tech stack
 
-- 🔹 Price Comparator — Next.js, Groq API, Playwright, Docker
-- 🔹 [Chat en tiempo real](https://realtimechat-7bzvjz1jt-yesicavenialgos-projects.vercel.app/) — Next.js, Django Channels, WebSockets
-- 🔹 [Recursos IA Argentina](https://recursos-ia-argentina-git-master-yesicavenialgos-projects.vercel.app/) — Next.js, Django REST, Railway
+### Frontend
 
-## Contacto
+🔹 Next.js · React · TypeScript · JavaScript · Tailwind CSS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yesicavenialgo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-232F3E?style=flat&logoColor=white)](https://yesicavenialgo.com)
+### Backend
+
+🔹 Python · Django · Django REST Framework · Node.js · PostgreSQL
+
+### Infrastructure & tools
+
+🔹 Docker · AWS · GitHub Actions · Redis · Playwright · MapLibre · n8n · Groq API
+
+## Featured projects
+
+### 🛒 Buywise
+
+**PRODUCT · In development**
+
+A price comparison product that turns complex shopping data into clear comparisons, alerts, and AI-assisted recommendations.
+
+`Next.js` `TypeScript` `Hono` `PostgreSQL` `Playwright` `Groq API`
+
+> Prices are collected from publicly available retailer pages and may change depending on availability, updates, and retailer conditions.
+
+---
+
+### 💬 [Real-time Chat](https://realtimechat-7bzvjz1jt-yesicavenialgos-projects.vercel.app/)
+
+**LIVE**
+
+A real-time chat platform with topic-based rooms, online users, reactions, persistent history, and WebSocket-powered updates.
+
+**[View live demo ↗](https://realtimechat-7bzvjz1jt-yesicavenialgos-projects.vercel.app/)**
+
+`Next.js` `TypeScript` `Django Channels` `WebSockets` `PostgreSQL` `Docker`
+
+---
+
+### 📚 [Recursos IA Argentina](https://recursos-ia-argentina-git-master-yesicavenialgos-projects.vercel.app/)
+
+**LIVE**
+
+A collaborative directory of free AI courses with user submissions and an admin review workflow.
+
+**[View live demo ↗](https://recursos-ia-argentina-git-master-yesicavenialgos-projects.vercel.app/)**
+
+`Next.js` `TypeScript` `Redux Toolkit` `Django REST Framework` `PostgreSQL` `Docker`
+
+---
+
+### 🗺️ Mappi
+
+**IN DEVELOPMENT**
+
+A platform for discovering activities, events, and places for children in Buenos Aires, with plans to expand to other cities and regions.
+
+`Next.js` `TypeScript` `Django REST Framework` `PostGIS` `Redis` `n8n` `MapLibre`
+
+## Currently
+
+- Building and refining personal products
+- Exploring data, automation, and product development
+- Open to interesting collaborations and opportunities

@@ -54,7 +54,7 @@ A price comparison product that turns complex shopping data into clear compariso
 
 A real-time chat platform with topic-based rooms, online users, reactions, persistent history, and WebSocket-powered updates.
 
-**[View live demo ↗](https://realtimechat-7bzvjz1jt-yesicavenialgos-projects.vercel.app/)**
+**[View live demo ↗](https://realtimechat-jpqphpnh8-yesicavenialgos-projects.vercel.app/)**
 
 `Next.js` `TypeScript` `Django Channels` `WebSockets` `PostgreSQL` `Docker`
 
